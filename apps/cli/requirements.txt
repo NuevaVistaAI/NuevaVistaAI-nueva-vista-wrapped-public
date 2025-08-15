@@ -1,0 +1,17 @@
+# Nueva Vista Wrapped CLI Dependencies
+# Minimal requirements for local processing
+
+# Optional: For handling very large exports
+ijson>=3.2.3
+
+# Standard library modules used (no additional install needed):
+# - json
+# - sys
+# - re
+# - datetime
+# - collections
+# - statistics
+# - math
+# - argparse
+# - os
+# - gzip 
