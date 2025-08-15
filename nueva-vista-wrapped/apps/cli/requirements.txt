@@ -1,0 +1,15 @@
+# Nueva Vista Wrapped - Dependencies
+# All packages required for local AI analytics
+
+# Core dependencies
+argparse  # Command line argument parsing (built-in)
+json      # JSON data processing (built-in)
+re        # Regular expressions (built-in)
+sys       # System functions (built-in)
+datetime  # Date/time handling (built-in)
+collections  # Counter, defaultdict (built-in)
+
+# Optional dependencies for advanced features
+# ijson>=3.1.0     # Streaming JSON parser for large files
+# pandas>=1.5.0    # Data analysis (if needed for future features)
+# matplotlib>=3.5.0  # Plotting (if needed for visualizations)
